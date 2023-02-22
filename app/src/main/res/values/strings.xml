@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Examples</string>
+    <string name="login">Login</string>
+    <string name="email_or_phone_number">Email or phone number</string>
+    <string name="we_will_be_happy_to_sing_you_up_in_our_app_and_thank_you_for_your_trust">We will be happy to sing you up in our app and thank you for your trust</string>
+    <string name="next">Next</string>
+    <string name="hi_mohammed_berila">Hi Mohammed Berila</string>
+    <string name="todo">TODO</string>
+    <string name="create_account">Create account</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="password">Password</string>
+    <string name="sing_in_with_your_account">Sing in with your account</string>
+    <string name="back">Back</string>
+</resources>
